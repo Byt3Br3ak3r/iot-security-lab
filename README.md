@@ -1,2 +1,1 @@
-# iot-security-lab
-IoT &amp; embedded security research lab featuring firmware analysis tools, hardware attack case studies, and responsible disclosure methodology.
+IoT security research, embedded firmware analysis, hardware hacking tooling, and responsible vulnerability disclosure.
