@@ -4,8 +4,9 @@
 - binwalk
 - firmadyne
 - firmware-mod-kit
-- Ghidra
+- Ghidra 
 - radare2 (https://github.com/radareorg/radare2)
+  
 ## Hardware
 - Saleae Logic
 - OpenOCD
