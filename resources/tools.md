@@ -5,8 +5,7 @@
 - firmadyne
 - firmware-mod-kit
 - Ghidra
-- radare2
-- radare2[radare2](https://example.com)
+- [radare2]https://github.com/radareorg/radare2
 ## Hardware
 - Saleae Logic
 - OpenOCD
